@@ -177,7 +177,7 @@ a.navegadores{
 
 .escuelas {
   width: 450px;
-  height: 430px;
+  height: 450px;
   position: absolute;
   top: 49px;
   left: 0;
@@ -187,7 +187,7 @@ a.navegadores{
   background: #060763;
   border-bottom: 3px solid #000000;
   padding: 10px;
-  z-index: 1001;
+  z-index: 1000;
   overflow: auto;
 }
 
@@ -203,9 +203,9 @@ a.navegadores{
 }
 
 .escuelas li {
-  padding: 10px 20px;
+  padding: 20px 20px;
   border-bottom: 1px solid rgb(8, 2, 34);
-  font-weight: 100;
+  font-weight: 70;
   font-size: 15px;
   z-index: 1001;
 }
