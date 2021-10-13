@@ -248,7 +248,7 @@ main {
   /*width: 890px; */
   max-width: 1000px;
   margin: auto;
-  background: rgb(211, 209, 209);
+  background: rgb(275, 285, 254);
   padding: 0px;
   margin-top: 0px;
 }
@@ -279,8 +279,9 @@ main div a {
   padding: 10px;
 }
 .circulos-azules {
-  width: 160px;
-  height: 160px;
+  margin: 0 auto;
+  max-width: 13%;
+  height: 80%;
   cursor: pointer;
 }
 .comer{
